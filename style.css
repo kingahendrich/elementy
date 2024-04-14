@@ -3,6 +3,7 @@
     box-sizing: border-box;
     font-family: Montserrat, sans-serif;
 }
-h2 {
+
+h1, h2, h3 {
     margin: 1rem;
 }
